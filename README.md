@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/enrique-cs/](https://www.linkedin.com/in/enrique-cs/)
 
-- ⚡ Fun fact **I always forget to center a div**
+- ⚡ Fun fact **I always forget how to center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
