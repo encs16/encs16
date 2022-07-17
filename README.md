@@ -1,5 +1,5 @@
 <h1 align="center">Heey! 👋, I'm Enrique Castro</h1>
-<h3 align="center">A Telecommunication Engineer graduated from Colombia</h3>
+<h3 align="center">A Telecommunication Engineer from Colombia</h3>
 
 - 🔭 I’m currently working on **Network Management**
 
