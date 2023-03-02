@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Professional Service Engineer (Implementation)**
 
-- 🌱 I’m currently improving in Cloud computing and backend development to get data engineer or backend engineer role <3
+- 🌱 I’m currently improving in Cloud computing and backend development to get data engineer or backend engineer role 
 
 - 💬 Ask me about **flask, coding problems**
 
